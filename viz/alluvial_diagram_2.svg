@@ -150,7 +150,7 @@
         .s24 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #26945e;
+            stroke: #6d6d6d;
             stroke-width: 1;
         }
         .s25 {
@@ -186,7 +186,7 @@
         .s30 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #26945e;
+            stroke: #6d6d6d;
             stroke-width: 2;
         }
         .s31 {
@@ -204,7 +204,7 @@
         .s33 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #6cb94d;
+            stroke: #969696;
             stroke-width: 1;
         }
         .s34 {
@@ -246,7 +246,7 @@
         .s40 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #59b34f;
+            stroke: #8d8d8d;
             stroke-width: 1;
         }
         .s41 {
@@ -276,7 +276,7 @@
         .s45 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #26945e;
+            stroke: #6d6d6d;
             stroke-width: 4.1;
         }
         .s46 {
@@ -330,13 +330,13 @@
         .s54 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #afd044;
+            stroke: #b7b7b7;
             stroke-width: 1;
         }
         .s55 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #59b34f;
+            stroke: #8d8d8d;
             stroke-width: 4.1;
         }
         .s56 {
@@ -354,7 +354,7 @@
         .s58 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #26945e;
+            stroke: #6d6d6d;
             stroke-width: 3;
         }
         .s59 {
