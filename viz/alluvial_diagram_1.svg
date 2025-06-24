@@ -27,7 +27,7 @@
 		.s21 { mix-blend-mode: multiply;fill: none;stroke: #dc267f;stroke-width: 6.1 } 
 		.s22 { mix-blend-mode: multiply;fill: none;stroke: #ffb000;stroke-width: 1 } 
 		.s23 { mix-blend-mode: multiply;fill: none;stroke: #ffb000;stroke-width: 2 } 
-		.t24 { font-size: 11px;fill: #000000;font-family: "Atkinson Hyperlegible", sans-serif } 
+		.t24 { font-size: 11px;fill: #000000;font-family: Atkinson Hyperlegible, sans-serif } 
 		.asterisco {fill: #666666; } 
 	</style>
         <g id="visualization">
