@@ -7,7 +7,7 @@
     --gris: #546E7A;
     --bs-font-sans-serif: "Atkinson Hyperlegible", sans-serif;
     --bs-link-color-rgb: 84, 61, 191;
-    --bs-link-color-rgb: 71, 51, 163;
+    --bs-link-hover-color-rgb: 71, 51, 163;
 }
 
 .text-bg-primary{
