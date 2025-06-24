@@ -30,7 +30,7 @@
         .s4 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #648fff;
             stroke-width: 3;
         }
         .s5 {
@@ -90,13 +90,13 @@
         .s14 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #648fff;
             stroke-width: 4.1;
         }
         .s15 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #648fff;
             stroke-width: 1;
         }
         .s16 {
@@ -132,7 +132,7 @@
         .s21 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #648fff;
             stroke-width: 2;
         }
         .s22 {
